@@ -9,6 +9,9 @@ env/
 *.pem
 *.key
 
+# Chroma_db
+chroma_db_LAB/
+
 # Python cache and builds
 __pycache__/
 *.py[cod]
